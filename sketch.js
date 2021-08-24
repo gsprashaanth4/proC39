@@ -22,12 +22,12 @@ var rank;
 
 function preload()
 {
-  backgroundImg = loadImage("../roadImg.jpg");
-  tr1image = loadImage("../rt1.jpg");
-  cr1Img = loadImage("../car11.png");
-  cr2Img = loadImage("../car22.png");
-  cr3Img = loadImage("../car33.png");
-  cr4Img = loadImage("../car44.png");
+  backgroundImg = loadImage("roadImg.jpg");
+  tr1image = loadImage("rt1.jpg");
+  cr1Img = loadImage("car11.png");
+  cr2Img = loadImage("car22.png");
+  cr3Img = loadImage("car33.png");
+  cr4Img = loadImage("car44.png");
 }
 
 function setup()
